@@ -1,0 +1,182 @@
+[06-Nov-2020 10:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:15:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:15:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:20:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:21:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:21:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:24
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 24
+[06-Nov-2020 10:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:62
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 62
+[06-Nov-2020 10:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php:62
+Stack trace:
+#0 C:\Users\new\Local Sites\huddle\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\new\Local Sites\huddle\app\public\wp-blog-header.php(19): require_once('C:\\Users\\new\\Lo...')
+#2 C:\Users\new\Local Sites\huddle\app\public\index.php(17): require('C:\\Users\\new\\Lo...')
+#3 {main}
+  thrown in C:\Users\new\Local Sites\huddle\app\public\wp-content\themes\huddle-theme\index.php on line 62
